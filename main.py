@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_page_config(page_title="Diabetes Prediction", layout="centered")
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
@@ -21,7 +22,7 @@ model = RandomForestClassifier()
 model.fit(X, y)
 
 # App title
-st.set_page_config(page_title="Diabetes Prediction", layout="centered")
+
 st.title("🧪 Diabetes Prediction App")
 st.write("Enter your health information to predict the likelihood of diabetes.")
 
