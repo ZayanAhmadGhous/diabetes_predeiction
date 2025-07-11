@@ -6,7 +6,7 @@ This is a **Machine Learning-powered Streamlit web app** that predicts whether a
 
 ## 🚀 Demo
 
-🌐 Live App: [Click to Try the App](https://portfoliopy-hahs3uejindjcgi3ubapxz.streamlit.app/)
+🌐 Live App: [Click to Try the App](https://diabetespredeiction-h6pxdrwiye7vpeiyzf5ffp.streamlit.app/)
 
 ---
 
